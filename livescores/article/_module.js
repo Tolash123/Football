@@ -3563,7 +3563,7 @@ function create_fragment$2(ctx) {
 			attr(div1, "class", "mobile-nav svelte-ngjace");
 			attr(header, "class", "section-container svelte-ngjace");
 			attr(div2, "class", "section");
-			attr(div2, "id", "section-5dd70647");
+			attr(div2, "id", "section-d09668c1");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div2, anchor);
@@ -3939,7 +3939,7 @@ function create_fragment$3(ctx) {
 			attr(div0, "class", "footer svelte-1excgdw");
 			attr(div1, "class", "section-container svelte-1excgdw");
 			attr(div2, "class", "section");
-			attr(div2, "id", "section-26210563");
+			attr(div2, "id", "section-29e83b83");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div2, anchor);
@@ -4109,12 +4109,12 @@ function create_fragment$4(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-					"url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"src": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"url": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
 					"size": null
 				},
-				title: "About my Blog",
-				description: "I'm a developer, designer, founder and everything in-between."
+				title: "Article",
+				description: "This is an article discussing the merits of something or another."
 			}
 		});
 
@@ -4126,12 +4126,12 @@ function create_fragment$4(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-					"url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"src": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"url": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
 					"size": null
 				},
-				title: "About my Blog",
-				description: "I'm a developer, designer, founder and everything in-between.",
+				title: "Article",
+				description: "This is an article discussing the merits of something or another.",
 				logo: {
 					"image": {
 						"alt": "",
@@ -4164,12 +4164,12 @@ function create_fragment$4(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-					"url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"src": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"url": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
 					"size": null
 				},
-				title: "About my Blog",
-				description: "I'm a developer, designer, founder and everything in-between.",
+				title: "Article",
+				description: "This is an article discussing the merits of something or another.",
 				heading: "",
 				email: "",
 				social_links: [
@@ -4201,12 +4201,12 @@ function create_fragment$4(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
-					"url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"src": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+					"url": "https://images.unsplash.com/photo-1577717707588-58e49821e851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
 					"size": null
 				},
-				title: "About my Blog",
-				description: "I'm a developer, designer, founder and everything in-between."
+				title: "Article",
+				description: "This is an article discussing the merits of something or another."
 			}
 		});
 

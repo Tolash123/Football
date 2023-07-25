@@ -3774,7 +3774,7 @@ function create_if_block$3(ctx) {
 		h() {
 			if (!src_url_equal(img.src, img_src_value = /*background*/ ctx[3].url)) attr(img, "src", img_src_value);
 			attr(img, "alt", img_alt_value = /*background*/ ctx[3].alt);
-			attr(img, "class", "svelte-1xewmlb");
+			attr(img, "class", "svelte-1qt2bex");
 		},
 		m(target, anchor) {
 			insert_hydration(target, img, anchor);
@@ -3816,7 +3816,7 @@ function create_each_block$1(ctx) {
 		},
 		h() {
 			attr(a, "href", a_href_value = /*link*/ ctx[8].url);
-			attr(a, "class", "button svelte-1xewmlb");
+			attr(a, "class", "button svelte-1qt2bex");
 		},
 		m(target, anchor) {
 			insert_hydration(target, a, anchor);
@@ -3909,13 +3909,13 @@ function create_fragment$3(ctx) {
 			this.h();
 		},
 		h() {
-			attr(h1, "class", "heading svelte-1xewmlb");
-			attr(span, "class", "subheading svelte-1xewmlb");
-			attr(div0, "class", "buttons svelte-1xewmlb");
-			attr(div1, "class", "heading-group svelte-1xewmlb");
-			attr(header, "class", "svelte-1xewmlb");
+			attr(h1, "class", "heading svelte-1qt2bex");
+			attr(span, "class", "subheading svelte-1qt2bex");
+			attr(div0, "class", "buttons svelte-1qt2bex");
+			attr(div1, "class", "heading-group svelte-1qt2bex");
+			attr(header, "class", "svelte-1qt2bex");
 			attr(div2, "class", "section");
-			attr(div2, "id", "section-9cf55210");
+			attr(div2, "id", "section-79809b47");
 		},
 		m(target, anchor) {
 			insert_hydration(target, div2, anchor);
@@ -4722,7 +4722,7 @@ function create_fragment$6(ctx) {
 						"url": "",
 						"size": null
 					},
-					"title": "Dristol"
+					"title": "Futball-World"
 				},
 				site_nav: [
 					{ "link": { "url": "/", "label": "Home" } },
@@ -4730,7 +4730,10 @@ function create_fragment$6(ctx) {
 						"link": { "url": "/blog", "label": "Blog" }
 					},
 					{
-						"link": { "url": "/about", "label": "About" }
+						"link": {
+							"url": "/livescores",
+							"label": "Livescores"
+						}
 					}
 				]
 			}
@@ -4745,8 +4748,8 @@ function create_fragment$6(ctx) {
 				image: { "alt": "", "url": "" },
 				title: "Blog",
 				description: "",
-				heading: "Football news, results, fixtures, blogs, podcasts, and comments on the Premier League, La liga, European, and World football",
-				subheading: "",
+				heading: "Futball-World",
+				subheading: "Premier league, la liga, European, and World football",
 				buttons: [
 					{
 						"link": { "url": "/", "label": "Learn More" }
@@ -4775,7 +4778,7 @@ function create_fragment$6(ctx) {
 					{
 						"date": "July 25, 2023",
 						"link": {
-							"url": "/blog/article",
+							"url": "/blog",
 							"label": "History: Women’s World Cup ticket sales reach 1.5m milestone"
 						},
 						"thumbnail": {
@@ -4785,14 +4788,14 @@ function create_fragment$6(ctx) {
 							"size": 504
 						},
 						"description": {
-							"html": "<p>The 2023 Women’s World Cup in Australia and New Zealand will be the most-attended edition of the tournament yet, with more than 1.5m tickets sold just days into the month-long event.</p>\n<p>The previously best-attended Women’s World Cup, in Canada in 2015, saw 1.35m spectators through the gates across the tournament. Already more than 1.1m tickets have been sold to matches in Australia alone.</p>\n<p>“This tournament is creating history and we are delighted as host nation,” Football Australia chief executive, James Johnson, said in a statement.</p>\n<p>“We are seeing a surge in support for women’s football, not just in ticket sales, but also in broadcast viewership, fan festival participation and merchandise sales.”</p>\n<p>Fifa announced on Monday that the 1,500,000th ticket was sold to a New Zealand family, who were met by Fifa’s president, Gianni Infantino, and offered tickets to further matches.</p>\n<p>The average attendance for the tournament to date has been just under 30,000, a significant improvement on the average of 21,756 at the 2019 World Cup in France.</p>\n<p>The Matildas’ opening encounter against Ireland drew a record-breaking 75,784 fans to Stadium Australia, the largest crowd for an Australian women’s national team game.</p>\n<p>The tournament has also been attracting big television audiences, at home and abroad. Australia’s opening match was watched by almost 2 million viewers on Channel Seven, while England’s clash with Haiti on Saturday attracted a peak audience in the UK of 4.2 million – surpassing the viewership for the opening match of the home Euros last year.</p>\n<p>Australian midfielder Katrina Gorry expressed her excitement at the buzz around the tournament on Monday.</p>",
-							"markdown": "The 2023 Women’s World Cup in Australia and New Zealand will be the most-attended edition of the tournament yet, with more than 1.5m tickets sold just days into the month-long event.\n\nThe previously best-attended Women’s World Cup, in Canada in 2015, saw 1.35m spectators through the gates across the tournament. Already more than 1.1m tickets have been sold to matches in Australia alone.\n\n\n“This tournament is creating history and we are delighted as host nation,” Football Australia chief executive, James Johnson, said in a statement.\n\n“We are seeing a surge in support for women’s football, not just in ticket sales, but also in broadcast viewership, fan festival participation and merchandise sales.”\n\nFifa announced on Monday that the 1,500,000th ticket was sold to a New Zealand family, who were met by Fifa’s president, Gianni Infantino, and offered tickets to further matches.\n\nThe average attendance for the tournament to date has been just under 30,000, a significant improvement on the average of 21,756 at the 2019 World Cup in France.\n\nThe Matildas’ opening encounter against Ireland drew a record-breaking 75,784 fans to Stadium Australia, the largest crowd for an Australian women’s national team game.\n\nThe tournament has also been attracting big television audiences, at home and abroad. Australia’s opening match was watched by almost 2 million viewers on Channel Seven, while England’s clash with Haiti on Saturday attracted a peak audience in the UK of 4.2 million – surpassing the viewership for the opening match of the home Euros last year.\n\nAustralian midfielder Katrina Gorry expressed her excitement at the buzz around the tournament on Monday."
+							"html": "<p>The 2023 Women’s World Cup in Australia and New Zealand will be the most-attended edition of the tournament yet, with more than 1.5m tickets sold just days into the month-long event.</p>",
+							"markdown": "The 2023 Women’s World Cup in Australia and New Zealand will be the most-attended edition of the tournament yet, with more than 1.5m tickets sold just days into the month-long event.\n"
 						}
 					},
 					{
 						"date": "July 25, 2023",
 						"link": {
-							"url": "/blog/article",
+							"url": "/blog",
 							"label": "New Zealand v Philippines: Women’s World Cup 2023 "
 						},
 						"thumbnail": {
@@ -4802,15 +4805,15 @@ function create_fragment$6(ctx) {
 							"size": 397
 						},
 						"description": {
-							"html": "<p>The Philippines move onto three points, the same as New Zealand. Switzerland (also on three points) and Norway are up next. It’ll be interesting to see how this one pans out, with all still to play for in Group A.</p>\n<p>What about New Zealand? who will now have to bounce back from a disheartening result – all the more so given the highs of opening night – if they are to qualify for the knockout phase. What a rollercoaster it has been already for the co-hosts. Had Wilkinson not been ruled offside on 70 minutes, and Hand’s goal counted, it could have been a very different story.</p>\n<p>What a match that was, and what a result for the Philippines. They executed their gameplan perfectly – soaking up early pressure, before hitting on the break through Bolden and then holding firm defensively as the match progressed. Bolden’s status in her country was already high; it’ll be off the charts now. Olivia McDaniel also deserves huge credit for an impressive performance in between the sticks – she stood tall in the face of New Zealand pressure, and pulled out a top-drawer save in the dying moments to effectively secure victory.</p>",
-							"markdown": "The Philippines move onto three points, the same as New Zealand. Switzerland (also on three points) and Norway are up next. It’ll be interesting to see how this one pans out, with all still to play for in Group A.\n\nWhat about New Zealand? who will now have to bounce back from a disheartening result – all the more so given the highs of opening night – if they are to qualify for the knockout phase. What a rollercoaster it has been already for the co-hosts. Had Wilkinson not been ruled offside on 70 minutes, and Hand’s goal counted, it could have been a very different story.\n\nWhat a match that was, and what a result for the Philippines. They executed their gameplan perfectly – soaking up early pressure, before hitting on the break through Bolden and then holding firm defensively as the match progressed. Bolden’s status in her country was already high; it’ll be off the charts now. Olivia McDaniel also deserves huge credit for an impressive performance in between the sticks – she stood tall in the face of New Zealand pressure, and pulled out a top-drawer save in the dying moments to effectively secure victory."
+							"html": "<p>The Philippines move onto three points, the same as New Zealand. Switzerland (also on three points) and Norway are up next. It’ll be interesting to see how this one pans out, with all still to play for in Group A.</p>",
+							"markdown": "The Philippines move onto three points, the same as New Zealand. Switzerland (also on three points) and Norway are up next. It’ll be interesting to see how this one pans out, with all still to play for in Group A."
 						}
 					},
 					{
 						"date": "July 25, 2023",
 						"link": {
-							"url": "/blog/article",
-							"label": "Wrexham in the US – next stop Manchester United"
+							"url": "/blog",
+							"label": "Wrexham in the US "
 						},
 						"thumbnail": {
 							"alt": "",
@@ -4819,8 +4822,8 @@ function create_fragment$6(ctx) {
 							"size": 628
 						},
 						"description": {
-							"html": "<p>Founded in 1864 at the Turf Hotel, the world’s third-oldest club now exists in an orbit of Disney (via the Welcome to Wrexham documentary) and multinational sponsors: United Airlines (shirt), Betty Buzz (training kit) and SToK Cold Brew Coffee (the tour of the States and ground rebrand as the SToK Racecourse).</p>\n<p>After losing 5-0 to Chelsea in front of 50,596 spectators at Kenan Memorial Stadium and beating LA Galaxy II 4-0 (10,553, Dignity Health Sports Park), Phil Parkinson’s promoted League Two team face Manchester United at the Snapdragon Stadium at 7.30pm Pacific time on Tuesday (3.30am BST), about 20 miles from Mexico.</p>\n<p>Through all this Parkinson has a side to manage, expectations to hold down as he plots for MK Dons when pre-season’s phoney war ends and League Two starts on Saturday week.</p>\n<p>“We have to separate the Hollywood aspect away from the training ground,” the manager says. “The documentary is only successful if the team is doing well. It has been a great tour so far, very exciting for us. We were blown away by the reception in North Carolina, and for our area the positivity is incredible, our profile has raised spirits in Wrexham.</p>\n<p>“Long may that continue – especially with Rob and Ryan putting in place the structures at the club, which is the most important.”</p>\n<p>The trip across the US is down to the exposure caused by Welcome to Wrexham, which has made unlikely breakout stars of the club and town. And the squad. It means Paul Mullin, a journeyman striker who is Parkinson’s best player, can be recognised in Chapel Hill, the modest North Carolina town where Wrexham lost to Chelsea.</p>\n<p>The 28-year-old says: “Nothing surprises any more. We’d been there two hours and I was walking down the street to get a drink, and a car drove past and stopped and the driver wound the window down and started singing ‘Super Paul Mullin’. But football is why we are here.”</p>\n<p>Ben Tozer, Wrexham’s club captain, echoes his teammate. “It’s mind-blowing – we never realised how big it would be in America,” he says. “I was walking along the beach here in San Diego and people were stopping me for a photo.”</p>",
-							"markdown": "Founded in 1864 at the Turf Hotel, the world’s third-oldest club now exists in an orbit of Disney (via the Welcome to Wrexham documentary) and multinational sponsors: United Airlines (shirt), Betty Buzz (training kit) and SToK Cold Brew Coffee (the tour of the States and ground rebrand as the SToK Racecourse).\n\nAfter losing 5-0 to Chelsea in front of 50,596 spectators at Kenan Memorial Stadium and beating LA Galaxy II 4-0 (10,553, Dignity Health Sports Park), Phil Parkinson’s promoted League Two team face Manchester United at the Snapdragon Stadium at 7.30pm Pacific time on Tuesday (3.30am BST), about 20 miles from Mexico.\n\nThrough all this Parkinson has a side to manage, expectations to hold down as he plots for MK Dons when pre-season’s phoney war ends and League Two starts on Saturday week.\n\n“We have to separate the Hollywood aspect away from the training ground,” the manager says. “The documentary is only successful if the team is doing well. It has been a great tour so far, very exciting for us. We were blown away by the reception in North Carolina, and for our area the positivity is incredible, our profile has raised spirits in Wrexham.\n\n“Long may that continue – especially with Rob and Ryan putting in place the structures at the club, which is the most important.”\n\nThe trip across the US is down to the exposure caused by Welcome to Wrexham, which has made unlikely breakout stars of the club and town. And the squad. It means Paul Mullin, a journeyman striker who is Parkinson’s best player, can be recognised in Chapel Hill, the modest North Carolina town where Wrexham lost to Chelsea.\n\nThe 28-year-old says: “Nothing surprises any more. We’d been there two hours and I was walking down the street to get a drink, and a car drove past and stopped and the driver wound the window down and started singing ‘Super Paul Mullin’. But football is why we are here.”\n\nBen Tozer, Wrexham’s club captain, echoes his teammate. “It’s mind-blowing – we never realised how big it would be in America,” he says. “I was walking along the beach here in San Diego and people were stopping me for a photo.”\n\n"
+							"html": "<p>Founded in 1864 at the Turf Hotel, the world’s third-oldest club now exists in an orbit of Disney (via the Welcome to Wrexham documentary).</p>",
+							"markdown": "Founded in 1864 at the Turf Hotel, the world’s third-oldest club now exists in an orbit of Disney (via the Welcome to Wrexham documentary)."
 						}
 					},
 					{
@@ -4836,8 +4839,8 @@ function create_fragment$6(ctx) {
 							"size": 342
 						},
 						"description": {
-							"html": "<p>The Hammers boss David Moyes seems to have convinced his employers to invest a sizeable chunk of £105 million of Declan Rice revenue in Conor Gallagher. Chelsea have rejected a £40 million offer for their impressive midfielder, who is surplus to requirements at the club despite having featured prominently in pre-season warm-up games in the USA. Tottenham are also interested in taking Gallagher off Chelsea’s hands and see him as an ideal replacement for Pierre-Emile Højbjerg, who continues to agitate for a move to Atlético Madrid. Aston Villa’s Douglas Luiz and Barcelona’s Ivorian midfielder Franck Kessié are also rumoured to be inching their way across Tottenham’s radar.</p>",
-							"markdown": "The Hammers boss David Moyes seems to have convinced his employers to invest a sizeable chunk of £105 million of Declan Rice revenue in Conor Gallagher. Chelsea have rejected a £40 million offer for their impressive midfielder, who is surplus to requirements at the club despite having featured prominently in pre-season warm-up games in the USA. Tottenham are also interested in taking Gallagher off Chelsea’s hands and see him as an ideal replacement for Pierre-Emile Højbjerg, who continues to agitate for a move to Atlético Madrid. Aston Villa’s Douglas Luiz and Barcelona’s Ivorian midfielder Franck Kessié are also rumoured to be inching their way across Tottenham’s radar."
+							"html": "<p>The Hammers boss David Moyes seems to have convinced his employers to invest a sizeable chunk of £105 million of Declan Rice revenue in Conor Gallagher. </p>",
+							"markdown": "The Hammers boss David Moyes seems to have convinced his employers to invest a sizeable chunk of £105 million of Declan Rice revenue in Conor Gallagher. "
 						}
 					}
 				]
